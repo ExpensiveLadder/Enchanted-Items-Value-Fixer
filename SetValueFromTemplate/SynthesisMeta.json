@@ -1,0 +1,16 @@
+{
+  "Nickname": "Enchanted Items Value Fixer",
+  "Visibility": "Visible",
+  "OneLineDescription": "Fixes the value of enchanted items not matching their unenchanted counterpart.",
+  "LongDescription": "",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [],
+  "TargetedReleases": [
+    "SkyrimLE",
+    "SkyrimSE",
+    "SkyrimVR",
+    "EnderalLE",
+    "EnderalSE",
+    "SkyrimSEGog"
+  ]
+}
